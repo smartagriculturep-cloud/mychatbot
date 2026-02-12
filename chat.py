@@ -1,4 +1,3 @@
-#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
 import streamlit as st
 from groq import Groq
 import time
